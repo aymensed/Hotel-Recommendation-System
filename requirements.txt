@@ -1,7 +1,11 @@
+python==3.11
+
+streamlit==1.29.0
+altair==4.2.2
+
 pandas>=1.5.0
 numpy>=1.21.0
 scikit-learn>=1.0.0
 nltk>=3.7
 scipy>=1.7.0
 json5
-streamlit
